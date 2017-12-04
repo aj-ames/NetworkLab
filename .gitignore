@@ -8,6 +8,6 @@ client
 rsa
 fifoserver.o
 fifoclient.o
-rsa.o
+RSA.o
 vector.o
 leaky.o
