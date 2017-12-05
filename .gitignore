@@ -11,3 +11,4 @@ fifoclient.o
 RSA.o
 vector.o
 leaky.o
+crc
